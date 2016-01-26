@@ -1,2 +1,2 @@
 # CubeNetSphere-in-3D
-Self Explanitory
+Self Explanatory
